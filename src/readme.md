@@ -6,3 +6,5 @@ making this the first true generator on the Internet. It uses a dictionary of ov
 to generate Lorem Ripsum which looks reason able. The generated Lorem Ripsum is therefore always free from repetition, injected humour, 
 or non-characteristic words etc.
 
+Cambios en nueva rama
+
